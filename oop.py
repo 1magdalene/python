@@ -12,3 +12,7 @@ class Employee:
 
     def eat(self):
         print("Employee is eating...")
+
+employee1 = Employee() #Creating objects
+employee2 = Employee()
+employee3 = Employee()
